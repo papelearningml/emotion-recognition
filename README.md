@@ -1,7 +1,7 @@
 
 # Emotion Recognition Using Speech Data
 
-This project is part of an academic research effort conducted during a Master's program (Master 2: Functional Data and Deep Learning). Its purpose is to recognize emotions in speech, with a focus on four specific emotions: anger, joy, neutrality, and sadness.
+This project is part of an academic research effort conducted during a Master's program (Master 2). Its purpose is to recognize emotions in speech, with a focus on four specific emotions: anger, joy, neutrality, and sadness.
 
 ## Overview
 
